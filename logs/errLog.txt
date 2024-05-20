@@ -1,1 +1,7 @@
 20240520	01:07:03	a71c44e3-7138-4629-9684-0ad0f6e85742	Error: Not allowed by CORS
+20240520	15:06:37	4f8d9143-4d22-4291-bfa5-11de4cf561f5	TypeError: req.json is not a function
+20240520	15:06:55	46793236-3f7f-409e-8d5a-4b554df264de	TypeError: req.json is not a function
+20240520	15:07:20	4df90ebd-42eb-42d4-91ef-68d65adb5812	SyntaxError: Expected double-quoted property name in JSON at position 25
+20240520	15:07:33	59e41788-0d2f-42ed-9069-3fad5d4b38c8	TypeError: req.json is not a function
+20240520	15:08:16	3474155d-b33e-4c51-8e8b-338d10249187	TypeError: req.json is not a function
+20240520	15:08:32	c65cb923-4d75-444a-94a8-3aee5d7ffb17	TypeError: req.json is not a function
